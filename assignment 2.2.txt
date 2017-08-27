@@ -1,0 +1,16 @@
+Difference between Interpreter and Compiler?
+Interpreter : 
+1.Interpreter translates program one statement at a time.
+2.It take less amount of time to analyze the source code,but overall exuction time is slow.
+3.No intermediate object code is generated.
+4.It continue the program until it meets first error
+5.Memory requirement is less.
+Example : BASIC.
+
+Compiler : 
+1.Compiler scans entire program and translates it into machine code.
+2.It take large amount of time to analyze the source code,but excution time is fast.
+3.Intermediate object is generated.
+4.It generates the error message after scanning whole program.
+5.Memory requirement is more.
+Example : C Compiler.
